@@ -1,0 +1,19 @@
+{
+    "discord": "MzM5MjIwMjU4MDI2MTYwMTMx.DPfjSQ.gd8cN9tJxOK1cD7cJ8BlV7lvwN4",
+    "osu": "OSU_API_KEY",
+    "trello_key": "1e1c1b38a973cf58a43031123e6a38e4",
+    "trello_token": "0d8b4d97f52fae7112cc3a05753ed04be7b10e912771f6c50a0f8389d630dedf",
+    "tmdb": "5872aff3ff24efa084cdf8fdc304d3bd",
+
+    "prefix": ".",
+    "ownerId": "241723504620339201",
+    "devMode": false,
+
+    "colors": {
+        "embed": "FFF4DB",
+        "error": "F03A17",
+        "osu": "EA5F9C",
+        "success": "4cdc4c",
+        "npm": "C12127"
+    }
+}
